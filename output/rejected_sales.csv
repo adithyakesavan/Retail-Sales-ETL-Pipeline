@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,region,rejection_reason
+ORD0006,2026-08-05,CUST022,Headphones,Accessories,,2500.0,South,Missing or invalid quantity
+ORD0013,2026-08-21,CUST024,Chair,Furniture,2.0,,East,Missing or invalid unit price
+ORD0019,,CUST030,TShirt,Fashion,2.0,800.0,East,Invalid order date
+ORD0026,2026-05-17,CUST022,Watch,Accessories,-3.0,5000.0,East,Non-positive quantity
+ORD0011,2026-04-09,CUST005,Bag,Fashion,1.0,1800.0,South,Duplicate order ID
