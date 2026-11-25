@@ -176,7 +176,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Retail Sales Performance Dashboard](screenshots/retail-sales-dashboard.png)
+![Retail Sales Performance Dashboard](images/retail_sales_dashboard.jpg)
 
 ## Project Results
 
@@ -317,14 +317,22 @@ The pipeline generates:
 - Business intelligence and data visualization.
 - Git version control.
 
+## Completed Enhancements
+
+- Automated ETL pipeline testing using Pytest.
+- Continuous Integration using GitHub Actions.
+- Automated validation of pipeline execution.
+- Interactive business intelligence dashboard using Power BI.
+- Automated SQL analytics report generation.
+- Pipeline logging and error monitoring.
+
 ## Future Enhancements
 
-- Integrate PostgreSQL.
+- Integrate PostgreSQL as an alternative database.
 - Implement incremental data loading.
 - Add automated pipeline scheduling.
-- Integrate cloud storage.
-- Implement advanced logging and exception monitoring.
-- Develop additional business intelligence reports.
+- Deploy the pipeline using cloud services.
+- Build advanced sales forecasting capabilities.
 
 ## GitHub Repository
 
